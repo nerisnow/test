@@ -1,0 +1,11 @@
+
+open with git bash
+git init
+git status
+git add <docname>
+git config --"neri.gmail.com"
+git config --"neri"
+git commit
+write initial commit
+esc semicolon w q
+
