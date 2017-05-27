@@ -1,0 +1,42 @@
+body {
+    background-color: pink;
+}
+h2 {
+    color: blue;
+    font-family: verdana;
+    font-size: 180%;
+}
+p  {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+    border: 1px solid powderblue;
+
+}
+h1 {
+	color: maroon
+	font-family: Times New Roman ;
+	font-size: 300%
+}
+div.sub-heading {
+	color: purple
+	font-family: Times New Roman ;
+	font-size: 250%
+}
+div.website-heading {
+	color: navy blue
+	font-family: Century Gothic  ;
+	font-size: 300%
+}
+ul {
+
+    color: pink;
+    font-family: courier;
+    font-size: 170%;
+    border: 1px solid powderblue;
+}
+footer {
+	color: green;
+	font-family: algerian;
+	font-size:100% 
+}

@@ -8,4 +8,13 @@ git config --"neri"
 git commit
 write initial commit
 esc semicolon w q
+ git commit -m "wrote a paragraph"(show the msg in log)
+git log(shows activity info)
+git commit -a -m 'new text'(ass and commit together)
+touch action.js(form new)
+git add .
+git status (makes all committed)
 
+
+bitbucket.org
+github.com
